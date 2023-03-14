@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.milestone.PropertyAssessmentsTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 33.427 s <<< FAILURE! - in com.milestone.PropertyAssessmentsTest
+testLocation(com.milestone.PropertyAssessmentsTest)  Time elapsed: 0 s  <<< FAILURE!
+org.junit.ComparisonFailure: Testing random location in csv File... expected:<(53.4727333875803[, -113.513545195179])> but was:<(53.4727333875803[2, -113.51354519517967])>
+	at com.milestone.PropertyAssessmentsTest.testLocation(PropertyAssessmentsTest.java:82)
+
